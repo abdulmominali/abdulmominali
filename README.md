@@ -10,9 +10,9 @@ I'm a full-stack developer passionate about creating web applications. I special
 
 ## Tech Stack
 
-- **Frontend**: React.js, Next.js
 - **Backend**: NestJS, Laravel, Node.js
-- **Database**: MySQL, MongoDB
+- **Frontend**: React.js, Next.js
+- **Database**: MySQL, PostgreSQL, Oracle Database, MongoDB
 - **Version Control**: Git
 - **Deployment**: Docker, Heroku, Vercel
 
